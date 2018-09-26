@@ -5,20 +5,24 @@
 [femelo2010@gmail.com](mailto:femelo2010@gmail.com) | [Github](http://github.com/fernando-s-melo) | Telefone: [+5511942429907](tel:+5511942429907) | [Site Portfólio](http://fs2digital.com.br/fernando_melo) | Linkedin: (https://www.linkedin.com/in/fernandomelodev/)
 
 ## Sobre
-Olá, meu nome é Fernando, sou desenvolvedor web desde 2012, formado Tecnólogo em Sistemas para Internet, trabalhei em agências como Studio Manga, Push e atualmente sou desenvolvedor front end Pleno na Sanders Digital agência do ramo de E-commerce, desenvolvi para diversas marcas, dentre elas estão Grupo Pão de Açúcar, LG, Danone, Shopping Butantã, CNA, Mondial, etc, tenho experiência nas plataformas e-commerce VTEX, CORE(Ez Commerce) e Rakuten, além de Wordpress e como Back End em PHP Orientado a Objetos (MVC).
+Olá, meu nome é Fernando, sou desenvolvedor web desde 2012, formado Tecnólogo em Sistemas para Internet, trabalhei em agências como Studio Manga, Push, Sanders Digital agência do ramo de E-commerce e atualmente sou desenvolvedor front End na Empresa InfraCommerce desenvolvi para diversas marcas, dentre elas estão Grupo Pão de Açúcar, LG, Danone, Shopping Butantã, CNA, Mondial, Bombril, Oakley, etc, tenho experiência nas plataformas e-commerce VTEX, CORE(Ez Commerce), Rakuten e Infrashop, além de Wordpress e como Back End em PHP Orientado a Objetos (MVC).
 
 
 ## Habilidades Web
 
 *   HTML5 / CSS3 / Sass / jQuery / JavaScript
-*   Git / Grunt 
+*   Git / Grunt / Gulp
 *   PHP Orientado a Objeto (MVC) - FrameWork CodeIgniter
-*   Wordpress / Rakuten / VTex / Core
+*   Wordpress / Rakuten / VTex / Core / InfraShop
 *   Mysql / Sql Server
 *   Obs.: Tenho trabalhos acadêmicos em Java e Asp
 
 ## Trabalhos recentes
 Lojas Virtuais
+* [Oakley - Loja Virtual - InfraCommerce](https://www.oakley.com.br/)
+	Criei uma página de campanha Linhas SportWear
+* [Bombril - Loja B2b -InfraCommerce](https://www.comprabombril.com.br/)
+	Desenvolvimento de Loja B2b
 * [Danone – Sabor de Viver - Vtex](http://www.sabordeviver.com.br/)
     Participei do FrontEnd da loja que atualmente está no ar
 * [Pneus Quick - Vtex](http://www.pneusquick.com.br/)
@@ -45,8 +49,10 @@ Lojas Virtuais
 * Inglês técnico
 
 ## Trajetória Profissional:
+
+* Desenvolvedor Front-end em empresa **[InfraCommerce]( http://www.infracommerce.com.br/)**, desde 08/2017.
  
-* Front-end em empresa **[Sanders Digital]( http://www.sandersdigital.com.br/)**, desde 01/08/2016.
+* Desenvolvedor Front-end em empresa **[Sanders Digital]( http://www.sandersdigital.com.br/)**, de 01/08/2016 até 07/2017.
 
 * Desenvolvedor Full Stack em empresa **[Push Publicidade]( http://www.push.ag/)**, de 5/02/2014 até 05/2016.
 
